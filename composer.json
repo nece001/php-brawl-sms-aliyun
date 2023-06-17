@@ -15,6 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2"
+        "php": ">=7.2",
+        "alibabacloud/dysmsapi-20170525": "^2.0"
     }
 }
