@@ -16,6 +16,7 @@
     ],
     "require": {
         "php": ">=7.2",
+        "nece001/php-brawl-sms": "^1.0",
         "alibabacloud/dysmsapi-20170525": "^2.0"
     }
 }

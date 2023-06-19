@@ -1,6 +1,9 @@
 # php-brawl-sms-aliyun
 PHP 阿里云短信基础服务适配项目
 
+# 依赖
+composer require alibabacloud/dysmsapi-20170525
+
 # 示例：
 ```php
     $conf = array(
